@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.259,=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.147,=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015.11.09 17:00:47.548,=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015.11.09 17:03:26.510,C:\Users\Lenovo\Documents\hcube\SaatKac\Unit1.dfm=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2015.11.09 17:03:26.510,C:\Users\Lenovo\Documents\hcube\SaatKac\Unit1.pas=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015.11.09 17:03:29.725,C:\Users\Lenovo\Documents\hcube\SaatKac\SaatKac.dproj=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
